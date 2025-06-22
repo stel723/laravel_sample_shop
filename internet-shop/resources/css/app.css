@@ -9,3 +9,15 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ваши дополнительные стили */
+body {
+    background-color: #f0f0f0; /* пример */
+    font-family: 'Instrument Sans', sans-serif;
+}
+
+/* Можно добавлять любые CSS-правила */
