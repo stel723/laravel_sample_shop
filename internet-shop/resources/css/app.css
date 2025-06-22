@@ -14,10 +14,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Ваши дополнительные стили */
+
 body {
-    background-color: #f0f0f0; /* пример */
+    background-color: #f0f0f0; 
     font-family: 'Instrument Sans', sans-serif;
 }
-
-/* Можно добавлять любые CSS-правила */
